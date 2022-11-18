@@ -1,2 +1,2 @@
 # app-ncurses
-Develop application using ncurses library
+Information : https://gunwooyun.tistory.com/
