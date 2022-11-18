@@ -1,2 +1,2 @@
 # app-ncurses
-Develop application function cipher using ncurses library
+Develop application using ncurses library
